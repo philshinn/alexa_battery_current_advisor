@@ -1,0 +1,54 @@
+WhenIsHighTide when is high tide
+WhenIsHighTide when is the high tide
+WhenIsHighTide what time is high tide
+WhenIsHighTide when are the high tides
+WhenIsHighTide when is high tide today
+WhenIsHighTide when is the high tide  today
+WhenIsHighTide what time is high tide today
+WhenIsHighTide when are the high tides today
+WhenIsLowTide when is low tide
+WhenIsLowTide what time is low tide
+WhenIsLowTide when are the low tides
+WhenIsLowTide when is low tide today
+WhenIsLowTide what time is low tide today
+WhenIsLowTide when are the low tides today
+WhenIsSlackWater when is slack water
+WhenIsSlackWater when is slack water today
+GiveMeCurrentEvents tell me today's current events
+GiveMeCurrentEvents tell me about today's current events
+GiveMeCurrentEvents what are today's current events
+GiveMeCurrentEventsDate tell me {Date} current events
+GiveMeCurrentEventsDate tell me about {Date} current events
+GiveMeCurrentEventsDate what are {Date} current events
+GiveMeCurrentEventsDate tell me current events for {Date}
+GiveMeCurrentEventsDate tell me about  current events for {Date}
+GiveMeCurrentEventsDate what are the current events for {Date}
+WhenIsHighTideDate when is high tide on {Date}
+WhenIsHighTideDate when is the high tide on {Date}
+WhenIsHighTideDate what time is high tide on {Date}
+WhenIsHighTideDate when are the high tides on {Date}
+WhenIsHighTideDate when is high tide {Date}
+WhenIsHighTideDate when is the high tide {Date}
+WhenIsHighTideDate what time is high tide {Date}
+WhenIsHighTideDate when are the high tides {Date}
+WhenIsLowTideDate when is low tide on {Date}
+WhenIsLowTideDate when is the low tide on {Date}
+WhenIsLowTideDate what time is low tide on {Date}
+WhenIsLowTideDate when are the low tides on {Date}
+WhenIsLowTideDate when is low tide {Date}
+WhenIsLowTideDate when is the low tide {Date}
+WhenIsLowTideDate what time is low tide {Date}
+WhenIsLowTideDate when are the low tides {Date}
+WhenIsSlackWaterDate when is slack water on {Date}
+WhenIsSlackWaterDate when is the slack water on {Date}
+WhenIsSlackWaterDate what time is slack water on {Date}
+WhenIsSlackWaterDate when are the slack waters on {Date}
+WhenIsSlackWaterDate when is slack water {Date}
+WhenIsSlackWaterDate when is the slack water {Date}
+WhenIsSlackWaterDate what time is slack water {Date}
+WhenIsSlackWaterDate when are the slack waters {Date}
+DateEvent when is {Date}
+DateEvent what day is {Date}
+TimeEvent when is {Time}
+ThankYouGoodbyeIntent thank you goodbye
+ThankYouGoodbyeIntent goodbye

@@ -1,0 +1,82 @@
+{
+  "intents": [
+    {
+      "intent": "WhenIsHighTide"
+    },
+    {
+      "intent": "WhenIsLowTide"
+    },
+    {
+      "intent": "WhenIsSlackWater"
+    },
+    {
+      "intent": "GiveMeCurrentEvents"
+    },
+    {
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "GiveMeCurrentEventsDate"
+    },
+    {
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "WhenIsHighTideDate"
+    },
+    {
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "WhenIsLowTideDate"
+    },
+    {
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "WhenIsSlackWaterDate"
+    },
+    {
+      "slots": [
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "DateEvent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Time",
+          "type": "AMAZON.TIME"
+        }
+      ],
+      "intent": "TimeEvent"
+    },
+    {
+      "intent": "ThankYouGoodbyeIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
